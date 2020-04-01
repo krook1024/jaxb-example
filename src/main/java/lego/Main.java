@@ -17,7 +17,7 @@ public class Main {
         legoSet.setSubtheme("Solo");
         legoSet.setYear(Year.of(2019));
         legoSet.setPieces(519);
-        legoSet.setTags(Set.of("Starfighter", "Stormtrooper"));
+        legoSet.setTags(Set.of("Starfighter", "Stormtrooper", "Star Wars", "Solo"));
 
         ArrayList<Minifig> minifigs = new ArrayList<>();
         minifigs.add(new Minifig("Imperial Mudtrooper", 2));
